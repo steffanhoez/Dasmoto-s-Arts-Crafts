@@ -1,0 +1,33 @@
+#header {
+  background-image: url(/pattern.webp);
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+#Brushes,
+#Frames,
+#Paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+#Hacksaw_Brushes,
+h2,
+p {
+  font-family: Helvetica;
+}
+span {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+#Frames {
+  background-color: lightcoral;
+}
+#Paint {
+  background-color: skyblue;
+}
